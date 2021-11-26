@@ -1,0 +1,7 @@
+datetime
+
+alpaca_trade_api
+
+discord
+requests
+alpaca_trade_api
